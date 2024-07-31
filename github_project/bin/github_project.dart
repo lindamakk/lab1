@@ -1,4 +1,6 @@
 
-void main() {
+import 'function.dart';
 
+void main() {
+function();
 }
